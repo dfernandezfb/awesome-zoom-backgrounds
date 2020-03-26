@@ -10,7 +10,8 @@ for live brackground you can also follow instructions from readme.me file within
 
 ## How to colabora
 
-Please add more background, specially peplo from **RollingCode** but everyone is welcome to add more backgrounds
+Please add more background, specially people from **RollingCode** who want to see your 
+contributions here :) Anyway, everyone is welcome to add more backgrounds
 
 # fork from 
 
